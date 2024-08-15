@@ -68,7 +68,7 @@ SedibeloTest/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/SedibeloTest.git
+   git clone https://github.com/Uyapfa/NodeBackEnd
    cd SedibeloTest
    ```
 
